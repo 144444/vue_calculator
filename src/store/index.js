@@ -1,9 +1,15 @@
-import { createStore } from "vuex";
+// const store = createStore({
+//   state() {
+//     return {
+//       selectedOption: "",
+//     };
+//   },
+//   mutations: {
+//     setSelectedOption(state, option) {
+//       state.selectedOption = option;
+//     },
+//   },
+// });
 
-export default createStore({
-  state: {},
-  getters: {},
-  mutations: {},
-  actions: {},
-  modules: {},
-});
+// eslint-disable-next-line no-undef
+// export default store;

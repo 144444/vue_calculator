@@ -3,7 +3,11 @@
 ## Project setup
 ```
 npm install
+
+
+### Run json-server
 ```
+npm run server
 
 ### Compiles and hot-reloads for development
 ```

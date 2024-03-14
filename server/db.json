@@ -1,0 +1,48 @@
+{"options": [
+  {
+    "value": "1",
+    "label": "Кооперативный",
+    "id": 1
+  },
+  {
+    "value": "2",
+    "label": "Интернет магазин",
+    "id": 2
+  },
+  {
+    "value": "3",
+    "label": "Лендинг",
+    "id": 3
+  }
+],
+"items": [
+  { 
+    "name":"Форум",
+    "index":1,
+    "quantity":"10",
+    "price":1500,
+    "totalCost":15000
+  },
+  { 
+    "name":"Страницы",
+    "index":2,
+    "quantity":"15",
+    "price":1263,
+    "totalCost":56000
+  },
+  {
+    "name":"Новостной блог",
+    "index":3,
+    "quantity":"21",
+    "price":10,
+    "totalCost":800
+  },
+  {
+    "name":"Корзина покупок",
+    "index":4,
+    "quantity":"30",
+    "price":130,
+    "totalCost":123000
+  }
+]
+}
